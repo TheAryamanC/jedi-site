@@ -18,3 +18,4 @@ theme = "PaperMod"
 		name = "Contact"
 		url = "/contact/"
 		weight = 30
+ 
