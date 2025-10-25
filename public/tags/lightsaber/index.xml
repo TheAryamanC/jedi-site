@@ -6,8 +6,17 @@
     <description>Recent content in Lightsaber on Jedi Knight</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Oct 2025 12:30:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 15:15:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/jedi-site/tags/lightsaber/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lightsaber Construction</title>
+      <link>http://localhost:1313/jedi-site/posts/lightsaber-construction/</link>
+      <pubDate>Fri, 24 Oct 2025 15:15:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/posts/lightsaber-construction/</guid>
+      <description>&lt;h2 id=&#34;building-a-lightsaber&#34;&gt;Building a Lightsaber&lt;/h2&gt;
+&lt;p&gt;Lightsabers are crafted using kyber crystals and precise engineering. The bonding process is deeply personal for the Jedi.&lt;/p&gt;
+&lt;p&gt;Sections: crystals, hilt design, safety.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Lightsabers and Forms</title>
       <link>http://localhost:1313/jedi-site/posts/lightsabers/</link>

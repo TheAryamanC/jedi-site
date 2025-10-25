@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Obi-Wan on Jedi Knight</title>
+    <link>http://localhost:1313/jedi-site/tags/obi-wan/</link>
+    <description>Recent content in Obi-Wan on Jedi Knight</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Oct 2025 14:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/jedi-site/tags/obi-wan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obi-Wan Kenobi: A Brief Biography</title>
+      <link>http://localhost:1313/jedi-site/posts/obi-wan-kenobi/</link>
+      <pubDate>Fri, 24 Oct 2025 14:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/posts/obi-wan-kenobi/</guid>
+      <description>&lt;h2 id=&#34;obi-wan-kenobi&#34;&gt;Obi-Wan Kenobi&lt;/h2&gt;
+&lt;p&gt;Obi-Wan served as a mentor to Anakin Skywalker and later to Luke Skywalker. Known for his calm demeanor and tactical skill.&lt;/p&gt;
+&lt;p&gt;Key lessons: patience, vigilance, compassion.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -6,8 +6,83 @@
     <description>Recent content in Jedi Posts on Jedi Knight</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Oct 2025 12:30:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 15:45:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/jedi-site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notable Battles Involving the Jedi</title>
+      <link>http://localhost:1313/jedi-site/posts/notable-battles/</link>
+      <pubDate>Fri, 24 Oct 2025 15:45:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/posts/notable-battles/</guid>
+      <description>&lt;h2 id=&#34;notable-battles&#34;&gt;Notable Battles&lt;/h2&gt;
+&lt;p&gt;This post summarizes some major engagements where Jedi played central roles.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Battle of Geonosis&lt;/li&gt;
+&lt;li&gt;The defense of Coruscant&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Jedi vs Sith</title>
+      <link>http://localhost:1313/jedi-site/posts/jedi-vs-sith/</link>
+      <pubDate>Fri, 24 Oct 2025 15:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/posts/jedi-vs-sith/</guid>
+      <description>&lt;h2 id=&#34;jedi-vs-sith&#34;&gt;Jedi vs Sith&lt;/h2&gt;
+&lt;p&gt;The philosophical differences shape tactics and outcomes. Jedi value balance; Sith harness passion and power.&lt;/p&gt;
+&lt;p&gt;Historical conflicts illustrate the risks of imbalance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lightsaber Construction</title>
+      <link>http://localhost:1313/jedi-site/posts/lightsaber-construction/</link>
+      <pubDate>Fri, 24 Oct 2025 15:15:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/posts/lightsaber-construction/</guid>
+      <description>&lt;h2 id=&#34;building-a-lightsaber&#34;&gt;Building a Lightsaber&lt;/h2&gt;
+&lt;p&gt;Lightsabers are crafted using kyber crystals and precise engineering. The bonding process is deeply personal for the Jedi.&lt;/p&gt;
+&lt;p&gt;Sections: crystals, hilt design, safety.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Training Padawans</title>
+      <link>http://localhost:1313/jedi-site/posts/training-padawans/</link>
+      <pubDate>Fri, 24 Oct 2025 15:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/posts/training-padawans/</guid>
+      <description>&lt;h2 id=&#34;training-padawans&#34;&gt;Training Padawans&lt;/h2&gt;
+&lt;p&gt;Padawans apprentice under a Master; training focuses on lightsaber practice, Force control, and ethics.&lt;/p&gt;
+&lt;p&gt;Mentorship and practical exercises are crucial.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Jedi Code</title>
+      <link>http://localhost:1313/jedi-site/posts/jedi-code/</link>
+      <pubDate>Fri, 24 Oct 2025 14:45:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/posts/jedi-code/</guid>
+      <description>&lt;h2 id=&#34;the-jedi-code&#34;&gt;The Jedi Code&lt;/h2&gt;
+&lt;p&gt;There are several variants of the Jedi Code used to guide behavior. They emphasize self-discipline and service.&lt;/p&gt;
+&lt;p&gt;Example principles: serenity, knowledge, harmony, and responsibility.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Force Basics</title>
+      <link>http://localhost:1313/jedi-site/posts/force-basics/</link>
+      <pubDate>Fri, 24 Oct 2025 14:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/posts/force-basics/</guid>
+      <description>&lt;h2 id=&#34;the-force&#34;&gt;The Force&lt;/h2&gt;
+&lt;p&gt;The Force is an energy field created by all living things. Jedi learn to sense and sometimes influence it.&lt;/p&gt;
+&lt;p&gt;Sections: sensing the Force, ethical considerations, meditation practices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Luke Skywalker: From Farmboy to Jedi</title>
+      <link>http://localhost:1313/jedi-site/posts/luke-skywalker/</link>
+      <pubDate>Fri, 24 Oct 2025 14:15:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/posts/luke-skywalker/</guid>
+      <description>&lt;h2 id=&#34;luke-skywalker&#34;&gt;Luke Skywalker&lt;/h2&gt;
+&lt;p&gt;Luke&amp;rsquo;s journey from Tatooine to Jedi Master inspired a generation. He emphasized rebuilding the Order with balance.&lt;/p&gt;
+&lt;p&gt;Notable achievements: confronting darkness and restoring hope.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Obi-Wan Kenobi: A Brief Biography</title>
+      <link>http://localhost:1313/jedi-site/posts/obi-wan-kenobi/</link>
+      <pubDate>Fri, 24 Oct 2025 14:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/posts/obi-wan-kenobi/</guid>
+      <description>&lt;h2 id=&#34;obi-wan-kenobi&#34;&gt;Obi-Wan Kenobi&lt;/h2&gt;
+&lt;p&gt;Obi-Wan served as a mentor to Anakin Skywalker and later to Luke Skywalker. Known for his calm demeanor and tactical skill.&lt;/p&gt;
+&lt;p&gt;Key lessons: patience, vigilance, compassion.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Lightsabers and Forms</title>
       <link>http://localhost:1313/jedi-site/posts/lightsabers/</link>

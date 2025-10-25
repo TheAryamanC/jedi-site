@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Code on Jedi Knight</title>
+    <link>http://localhost:1313/jedi-site/tags/code/</link>
+    <description>Recent content in Code on Jedi Knight</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Oct 2025 14:45:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/jedi-site/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Jedi Code</title>
+      <link>http://localhost:1313/jedi-site/posts/jedi-code/</link>
+      <pubDate>Fri, 24 Oct 2025 14:45:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/posts/jedi-code/</guid>
+      <description>&lt;h2 id=&#34;the-jedi-code&#34;&gt;The Jedi Code&lt;/h2&gt;
+&lt;p&gt;There are several variants of the Jedi Code used to guide behavior. They emphasize self-discipline and service.&lt;/p&gt;
+&lt;p&gt;Example principles: serenity, knowledge, harmony, and responsibility.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

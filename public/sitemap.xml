@@ -3,7 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/jedi-site/</loc>
-    <lastmod>2025-10-24T13:05:00-07:00</lastmod>
+    <lastmod>2025-10-24T15:45:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/battles/</loc>
+    <lastmod>2025-10-24T15:45:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/history/</loc>
+    <lastmod>2025-10-24T15:45:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/posts/notable-battles/</loc>
+    <lastmod>2025-10-24T15:45:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/</loc>
+    <lastmod>2025-10-24T15:45:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/conflict/</loc>
+    <lastmod>2025-10-24T15:30:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/jedi/</loc>
+    <lastmod>2025-10-24T15:30:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/posts/jedi-vs-sith/</loc>
+    <lastmod>2025-10-24T15:30:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/sith/</loc>
+    <lastmod>2025-10-24T15:30:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/lightsaber/</loc>
+    <lastmod>2025-10-24T15:15:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/posts/lightsaber-construction/</loc>
+    <lastmod>2025-10-24T15:15:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/tech/</loc>
+    <lastmod>2025-10-24T15:15:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/padawan/</loc>
+    <lastmod>2025-10-24T15:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/training/</loc>
+    <lastmod>2025-10-24T15:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/posts/training-padawans/</loc>
+    <lastmod>2025-10-24T15:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/code/</loc>
+    <lastmod>2025-10-24T14:45:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/posts/jedi-code/</loc>
+    <lastmod>2025-10-24T14:45:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/basics/</loc>
+    <lastmod>2025-10-24T14:30:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/force/</loc>
+    <lastmod>2025-10-24T14:30:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/posts/force-basics/</loc>
+    <lastmod>2025-10-24T14:30:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/luke/</loc>
+    <lastmod>2025-10-24T14:15:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/posts/luke-skywalker/</loc>
+    <lastmod>2025-10-24T14:15:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/tags/obi-wan/</loc>
+    <lastmod>2025-10-24T14:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jedi-site/posts/obi-wan-kenobi/</loc>
+    <lastmod>2025-10-24T14:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jedi-site/posts/</loc>
     <lastmod>2025-10-24T13:05:00-07:00</lastmod>
@@ -14,17 +83,8 @@
     <loc>http://localhost:1313/jedi-site/tags/forms/</loc>
     <lastmod>2025-10-24T12:30:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jedi-site/tags/lightsaber/</loc>
-    <lastmod>2025-10-24T12:30:00-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/jedi-site/posts/lightsabers/</loc>
     <lastmod>2025-10-24T12:30:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/jedi-site/tags/</loc>
-    <lastmod>2025-10-24T12:30:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/jedi-site/tags/jedi/</loc>
-    <lastmod>2025-10-24T12:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jedi-site/posts/master-yoda/</loc>
     <lastmod>2025-10-24T12:00:00-07:00</lastmod>
