@@ -11,4 +11,4 @@ The Jedi are guardians of peace and justice. **They use the Force** to protect t
 - [Posts about Jedi](/jedi-site/posts/)
 - [Contact](/jedi-site/contact/)
 
-![Jedi Council](/images/council.svg)
+![Jedi Council](https://thearyamanc.github.io/jedi-site/images/council.jpeg)
