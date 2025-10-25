@@ -30,4 +30,4 @@ The Jedi Order is organized into several ranks: Younglings, Padawans, Knights, a
 
 ## Latest
 
-Below are recent posts and articles about Jedi lore, training, and technology. Click through the "Posts" menu for the full archive
+Below are recent posts and articles about Jedi lore, training, and technology. Click through the "Posts" menu for the full archive.
