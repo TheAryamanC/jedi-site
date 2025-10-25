@@ -39,4 +39,7 @@ jobs:
         with:
           publish_dir: ./public
           publish_branch: gh-pages
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Prefer a personal access token stored in GH_PAGES_TOKEN secret if you set it.
+          # If you rely on the built-in GITHUB_TOKEN, ensure Actions workflow permissions
+          # are set to "Read and write" in the repository Settings → Actions → General.
+          github_token: ${{ secrets.GH_PAGES_TOKEN }}
