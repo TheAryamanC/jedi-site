@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Jedi Knight</title>
+    <link>http://localhost:1313/jedi-site/tags/</link>
+    <description>Recent content in Tags on Jedi Knight</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Oct 2025 12:30:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/jedi-site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forms</title>
+      <link>http://localhost:1313/jedi-site/tags/forms/</link>
+      <pubDate>Fri, 24 Oct 2025 12:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/tags/forms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lightsaber</title>
+      <link>http://localhost:1313/jedi-site/tags/lightsaber/</link>
+      <pubDate>Fri, 24 Oct 2025 12:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/tags/lightsaber/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jedi</title>
+      <link>http://localhost:1313/jedi-site/tags/jedi/</link>
+      <pubDate>Fri, 24 Oct 2025 12:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/tags/jedi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Masters</title>
+      <link>http://localhost:1313/jedi-site/tags/masters/</link>
+      <pubDate>Fri, 24 Oct 2025 12:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/jedi-site/tags/masters/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
